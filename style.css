@@ -584,7 +584,7 @@ margin-right:30px;
   gap:16px;
 }
    
-@media only screen and(max-width:980px){
+@media only screen and (max-width:980px){
 .market .footer li{
   text-align: center;
   margin-right:50px;
@@ -768,8 +768,8 @@ margin-left:80px;
   margin-bottom:40px;
 }
 /*on mobile device desktop site*/
-@media only screen and (min-width:980){
-  social-media{
+@media only screen and (min-width:980px){
+  .social-media{
   margin-bottom:20px;
   display:flex;
   justify-content: center;
@@ -1069,7 +1069,7 @@ margin-right:30px;
   text-align: center;
 }
 /*on laptop and bigger system*/
-@media only screen and (min-width:982px){
+@media only screen and (min-width:px){
   .logo{
     margin-left: 0px !important;
     margin-top:60px !important;
@@ -1415,7 +1415,7 @@ margin-left:270px !important;
 @media only screen and (max-height:500px){
     .select-box {
     width: 70%;
-    height:50vh;
+    height:125vh;
     background-color: white;
     border-radius: 20px;
     margin-left: 150px;
@@ -1429,7 +1429,7 @@ margin-left:270px !important;
   }
   .select-box2{
   width:100%;
-  height:35vh;
+  height:95vh;
   margin-top:350px;
   background-color: white;
   border-radius: 20px;
@@ -1446,7 +1446,7 @@ margin-left:270px !important;
 }
 .select-box3{
   width:100%;
-  height:35vh;
+  height:95vh;
   background-color: white;
   border-radius: 20px;
   margin-top:350px;
@@ -1528,7 +1528,7 @@ margin-top:80px;
  margin-right: 50px;
 }
 
- }
+}
 
 @media only screen and (min-width:980px) and (orientation: landscape) {
   .bg-white{
