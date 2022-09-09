@@ -1075,14 +1075,13 @@ margin-right:30px;
     margin-top:60px !important;
   }
 .footer-image{
-width:30%;
+width:30% !important;
 }
 .accept img{
-width:30%;
+width:30% !important;
 }
   *{
-  margin-left:0px !important;
-  margin-right:0px !important;
+  margin:0px !important;
    }
    .nav-bar{
      display:flex;
