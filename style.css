@@ -1081,8 +1081,8 @@ width:30%;
 width:30%;
 }
   *{
-  margin-left:0px;
-  margin-right:0px;
+  margin-left:0px !important;
+  margin-right:0px !important;
    }
    .nav-bar{
      display:flex;
@@ -1175,8 +1175,8 @@ width:30%;
     height: 25vh;
     background-color: white;
     border-radius: 20px;
-    margin-left: 150px;
-    margin-right: 180px;
+    margin-left: 150px !important;
+    margin-right: 180px !important;
     position: absolute;
     top:1285px;
     z-index: 2;
@@ -1212,8 +1212,8 @@ width:30%;
   z-index: 2;
 }
 .select-box div{
-  margin-left:20px;
-  margin-right:40px;
+  margin-left:20px !important;
+  margin-right:40px !important;
   margin-bottom:190px;
   position: relative;
   top:20px;
