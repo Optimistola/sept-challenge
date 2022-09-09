@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Oxanium:wght@200;300;400;500;600;700;800&display=swap);
+Bn@import url(https://fonts.googleapis.com/css2?family=Oxanium:wght@200;300;400;500;600;700;800&display=swap);
 *{
   margin:0;
 }
@@ -1081,7 +1081,8 @@ width:30% !important;
 width:30% !important;
 }
   *{
-  margin:0px;
+  margin-left:0px;
+  margin-right:0px;
    }
    .nav-bar{
      display:flex;
