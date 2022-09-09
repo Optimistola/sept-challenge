@@ -1075,7 +1075,7 @@ margin-right:30px;
     margin-top:60px !important;
   }
   *{
-  margin:px;
+  margin:0px !important;
    }
    .nav-bar{
      display:flex;
