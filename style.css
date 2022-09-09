@@ -1177,7 +1177,7 @@ width:30% !important;
     margin-left: 150px !important;
     margin-right: 180px !important;
     position: absolute;
-    top:1285px;
+    top:1185px;
     z-index: 2;
   }
   
@@ -1394,11 +1394,7 @@ margin-left:270px !important;
   font-size: 30px;
   text-align: left;
 }
-.footer2 img{
-  width:100%;
-  
-}
-.footer-img{
+footer-img{
   width:30%;
   display:flex;
   justify-items: center;
