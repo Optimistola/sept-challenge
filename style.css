@@ -1080,13 +1080,13 @@ width:30% !important;
 .accept img{
 width:30% !important;
 }
-  .body{
-  margin:0px !important;
+  *{
+  margin:0px;
    }
    .nav-bar{
      display:flex;
      justify-content:space-between;
-     margin-bottom:100px;
+     margin-bottom:100px !important;
    }
    .hero {
      margin-bottom:100px;}
@@ -1177,7 +1177,7 @@ width:30% !important;
     margin-left: 150px !important;
     margin-right: 180px !important;
     position: absolute;
-    top:1085px;
+    top:1285px;
     z-index: 2;
   }
   
