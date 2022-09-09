@@ -1074,6 +1074,12 @@ margin-right:30px;
     margin-left: 0px !important;
     margin-top:60px !important;
   }
+.footer-image{
+width:30%;
+}
+.accept img{
+width:30%;
+}
   *{
   margin-left:0px;
   margin-right:0px;
